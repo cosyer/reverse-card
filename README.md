@@ -1,5 +1,7 @@
 # h5小游戏，记忆翻牌拼手速
 
+[在线演示demo](https://cosyer.github.io/reverse-card/#/)
+
 ## 游戏玩法说明
 
 1. 填写手机号；
